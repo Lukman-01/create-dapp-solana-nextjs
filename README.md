@@ -33,5 +33,9 @@ Navigate to `http://localhost:3000` in your web browser to access the applicatio
 
 The application requires connection to a Solana wallet and network. These are configured in the `_app.tsx` file where you can set the default network and wallet providers.
 
+## Submission Criteria
 
+## 1. Github Link: https://github.com/Lukman-01/create-dapp-solana-nextjs.git
+
+## 2. Loom video link: https://www.loom.com/share/975dad3bcfbd4c43b23172bf17938104?sid=2070078a-3f88-4eb5-89c9-1f782d5d56e9
  
